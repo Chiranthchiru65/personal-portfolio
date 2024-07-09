@@ -29,4 +29,14 @@ export const Project_Experience = [
       "Seamless Deployment and Accessibility: Deployed the application on Netlify, ensuring continuous availability and seamless deployment. This combination of technologies provides users with a user-friendly interface, interactive features, and efficient data management, enhancing the overall user experience of the Today I Learned platform",
     ],
   },
+  {
+    projectName: "World-Wise",
+    TechUsed: ["JS", " React-router", "CSS"],
+    livelink: "https://worldplanner.netlify.app/",
+    discription: [
+      "Application for Tracking Visited Countries: Implemented react router for seamless navigation between login, pricing, product and main app pages.",
+      "Optimized initial load time, resulting in a 60% increase in application performance.",
+      "Utilized URL-based state management for efficient data persistence and improved user experience.",
+    ],
+  },
 ];
